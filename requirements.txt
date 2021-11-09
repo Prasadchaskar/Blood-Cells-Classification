@@ -4,3 +4,4 @@ Keras-Preprocessing==1.1.2
 keras-tuner==1.0.3
 tensorflow==2.6.1
 tensorflow-estimator==2.6.0
+h5py==3.1.0
